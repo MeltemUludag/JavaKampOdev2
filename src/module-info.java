@@ -1,0 +1,2 @@
+module JavaKampOdev2 {
+}
